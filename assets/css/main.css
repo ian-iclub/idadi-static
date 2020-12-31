@@ -656,9 +656,10 @@ welcome
   align-items: center;
   justify-content: center;
   /*background-image: url();*/
-  background:url(../images/banner-bg.png) rgba(0, 42, 58, 0.7);
+  background:url(../images/backgrounds/approach.jpg) rgba(0, 42, 58, 0.7);
   background-size:cover;
   background-blend-mode: multiply;
+  opacity: .9;
   /*background-repeat: no-repeat;*/
   /*background-position: center center;*/
   /*background-size: cover; */
@@ -873,7 +874,7 @@ parallax & home seperator
   /*background-size: cover;*/
   /*background-position: center center;*/
   /*background-image: url(../images/work-process-bg.png);*/
-  background:url(../images/work-process-bg.png) rgba(0, 42, 58, 0.7);
+  background:url(../images/backgrounds/landing.jpg) rgba(0, 42, 58, 0.7);
   background-size:cover;
   background-blend-mode: multiply;
   z-index: 2;
@@ -998,7 +999,7 @@ parallax & home seperator
   width: 140%;
   height: 140%;
   opacity: .90;
-  background:url(../images/fun-facts-bg.png) rgba(0, 42, 58, 0.7);
+  background:url(../images/backgrounds/warehouse2.jpg) rgba(0, 42, 58, 0.7);
   background-size:cover;
   background-blend-mode: multiply;
   z-index: 2;
